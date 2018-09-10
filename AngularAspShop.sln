@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularAspShop", "AngularAsp\AngularAspShop.csproj", "{B4F135AB-5F73-4B3F-87A3-6CAF3EFC0A5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4F135AB-5F73-4B3F-87A3-6CAF3EFC0A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F135AB-5F73-4B3F-87A3-6CAF3EFC0A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F135AB-5F73-4B3F-87A3-6CAF3EFC0A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F135AB-5F73-4B3F-87A3-6CAF3EFC0A5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19F4A338-0A3D-4F2C-A025-7B7E6BCDDF59}
+	EndGlobalSection
+EndGlobal
